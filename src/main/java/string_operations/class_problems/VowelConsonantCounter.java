@@ -1,4 +1,4 @@
-package main.java.string_operations.assignment_problems;
+package main.java.string_operations.class_problems;
 import java.util.Scanner;
 public class VowelConsonantCounter 
 {
