@@ -49,3 +49,37 @@
 
 ### Issues Faced
 - Did not face any issues.
+
+### Session 3 – Week 1
+- Completed Week 1 Class Problems and Assignment Problems.
+- Topic: Basic Java Programming and Problem Solving.
+- Class Problems:
+  - Rock Paper Scissors
+  - Palindrome Checker
+  - Team BMI Calculator
+  - First Non-Repeating Character
+  - Reverse Customer Name
+- Assignment Problems:
+  - Exam Hall Seat Duplication Checker
+  - Typing Speed Accuracy
+  - Traffic Signal Streak
+  - Warehouse Inventory Balancer
+  - Movie Review Word Length
+- Branch: `feature/session_3`
+
+### Session 4 – Week 4
+- Completed Week 4 Class Problems and Assignment Problems.
+- Topic: Constructors, Method Overloading, `this`, `final`, `static`, `instanceof`, Inheritance and Exception Handling.
+- Class Problems:
+  - Bus Ticket Booking Validator
+  - Remainder-Fair FareSplitter
+  - Bus Route Ranking Engine
+  - Tiered Boarding Penalty Calculator
+  - Nightly Fleet Reconciliation Engine
+- Assignment Problems:
+  - Ghost Order Validator
+  - ASAP or Scheduled – Delivery Slot Booking
+  - Canteen Trust-Score Ranking Engine
+  - Exam-Week Surge Fee Calculator
+  - Nightly Multi-Kitchen Reconciliation Engine
+- Branch: `feature/session_4`
