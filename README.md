@@ -83,3 +83,20 @@
   - Exam-Week Surge Fee Calculator
   - Nightly Multi-Kitchen Reconciliation Engine
 - Branch: `feature/session_4`
+
+### Session 5 – Week 5
+- Completed Week 5 Class Problems and Assignment Problems.
+- Topic: Access Modifiers, Encapsulation, JavaBeans, Constructor Chaining, Immutability, Defensive Copying, Static Blocks and instanceof.
+- Class Problems:
+  - Field Visibility & Intake Validator
+  - Cross-Package Inheritance Reach
+  - Vitals Monitoring Encapsulation Guard
+  - PatientProfile JavaBean, Chained Constructors & Locker PIN
+  - Immutable Discharge Summary & Nightly Ledger
+- Assignment Problems:
+  - Membership Field Reach Checker
+  - Reference Desk Subclass Reach
+  - Book Copy Circulation Guard
+  - LibraryMember JavaBean, Chained Constructors & Security Answer
+  - Immutable Loan Receipt & Nightly Circulation Ledger
+- Branch: `feature/session_5`
