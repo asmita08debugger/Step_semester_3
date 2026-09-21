@@ -70,4 +70,8 @@ class WorkshopTicket extends EventTicket
         super(attendeeId, basePrice);
         this.track = track;
     }
+    public String getTrack()
+    {
+        return track;
+    }
 }
