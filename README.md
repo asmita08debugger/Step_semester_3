@@ -100,3 +100,20 @@
   - LibraryMember JavaBean, Chained Constructors & Security Answer
   - Immutable Loan Receipt & Nightly Circulation Ledger
 - Branch: `feature/session_5`
+
+### Session 6 – Week 6
+- Completed Week 6 Class Problems and Assignment Problems.
+- Topic: Inheritance and Polymorphism.
+- Class Problems:
+  - Event Ticket Foundation & Batch Registration
+  - Premium Workshop and Hackathon Ticket Hierarchy
+  - Late Registration Penalty Override & Audit Trail
+  - Ticket Announcer Board
+  - Ticket Settlement Engine
+- Assignment Problems:
+  - Race Entry Foundation & Batch Bib Validator
+  - Three Shapes of One Race Family
+  - Late-Withdrawal Penalty Override & Audit Trail
+  - Race-Day Announcer Board
+  - Race-Wide Bib Issuance, Discount Codes & Nightly Settlement Engine
+- Branch: `feature/session_6`
