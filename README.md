@@ -117,3 +117,20 @@
   - Race-Day Announcer Board
   - Race-Wide Bib Issuance, Discount Codes & Nightly Settlement Engine
 - Branch: `feature/session_6`
+
+### Session 7 – Week 7
+- Completed Week 7 Class Problems and Assignment Problems.
+- Topics: Abstraction and Interfaces.
+- Class Problems:
+  - Checkout Payment Handler
+  - Home Safety Alert Network
+  - Quarterly Bonus Calculator
+  - Universal Media Launcher
+  - Community Library Checkout System
+- Assignment Problems:
+  - Basic Drawing Canvas
+  - One-Click Data Export
+  - Fleet Maintenance Tracker
+  - Arena Battle Simulator
+  - Connected Home Control Panel
+- Branch: `feature/session_7`
