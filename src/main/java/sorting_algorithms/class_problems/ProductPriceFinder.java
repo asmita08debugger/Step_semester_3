@@ -1,0 +1,40 @@
+package main.java.sorting_algorithms.class_problems;
+public class ProductPriceFinder 
+{
+    static int lowerBound(int[] prices, int target) 
+    {
+        int left = 0, right = prices.length;
+        while (left < right) 
+        {
+            int mid = (left + right) / 2;
+            if (prices[mid] < target)
+                left = mid + 1;
+            else
+                right = mid;
+        }
+        return left;
+    }
+    static int upperBound(int[] prices, int target) 
+    {
+        int left = 0, right = prices.length;
+        while (left < right) 
+        {
+            int mid = (left + right) / 2;
+            if (prices[mid] <= target)
+                left = mid + 1;
+            else
+                right = mid;
+        }
+        return left;
+    }
+    public static void main(String[] args) 
+    {
+        int[] prices = {100, 150, 150, 200, 300, 450};
+        int low = 150, high = 300;
+        int start = lowerBound(prices, low);
+        int end = upperBound(prices, high);
+        System.out.println("Lower bound index " + start);
+        System.out.println("Upper bound index " + end);
+        System.out.println("Count " + (end - start));
+    }
+}
