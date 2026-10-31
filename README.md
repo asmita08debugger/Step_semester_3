@@ -134,3 +134,59 @@
   - Arena Battle Simulator
   - Connected Home Control Panel
 - Branch: `feature/session_7`
+
+### Session 8 - Week 8
+- Completed all five Java Class Problems and five Assignment Problems.
+- Topic: Object Class Methods, UML Diagrams
+- Class Problems:
+  1. Online Examination System
+  2. Vehicle Rental System with Dynamic Pricing
+  3. Hotel Booking and Cancellation System
+  4. Employee Leave Request Management
+  5. Food Order and Flexible Payment System
+- Assignment Problems:
+  1. The Code Sprint Judging Desk
+  2. The SwiftShip Parcel Tracker
+  3. The Smart Lab Control Panel
+  4. The Elective Seat Rush
+  5. The Campus Canteen Smart Card
+- Branch: `feature/session_8`
+
+### Session 9 - Week 9
+- Completed all five Java Class Problems and five Assignment Problems.
+- Topic: Data Structures
+- Class Problems:
+  1. Pair Sum in a Sorted Array
+  2. Warehouse Bin Grid Scan
+  3. Library Catalog Lookup
+  4. Library Catalog Lookup (Duplicate Search Problem)
+  5. Maximum Sum Subarray of Fixed Size K
+- Assignment Problems:
+  1. Mall Footfall Range Report
+  2. Longest Budget-Friendly Streak
+  3. Net-Balance Period Counter
+  4. Exam Score Band Counter
+  5. Spiral Stock Audit Route
+- Branch: `feature/session_9`
+
+### Session 10 - Week 10
+- Completed all five Java Class Problems and five Assignment Problems.
+- Topic: Sorting algorithms
+- Class Problems:
+  1. Smart Home Platform
+  2. Customer Registry
+  3. Student Marks Grid
+  4. Product Price Finder
+  5. Library Platform
+- Assignment Problems:
+  1. Cancelling the K-th Last Order
+  2. Campus Portal Browser History
+  3. Merging Two Ticket Counters
+  4. The Palindrome Train Code
+  5. Polynomial Calculator
+- Branch: `feature/session_10`
+
+### Next Session Plan
+- Continue with the next set of Java programming problems.
+- Keep practising Data Structures, Algorithms and OOP concepts.
+- Continue practising Git and GitHub workflow.
